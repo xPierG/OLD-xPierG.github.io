@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on Roxo | Creative Design Agency</title>
-    <link>http://example.org/tags/personal/</link>
+    <link>https://xpierg.github.io/tags/personal/</link>
     <description>Recent content in Personal on Roxo | Creative Design Agency</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 May 2009 04:11:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xpierg.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A great place for a good conference</title>
-      <link>http://example.org/blog/a-great-place-for-a-good-conference/</link>
+      <link>https://xpierg.github.io/blog/a-great-place-for-a-good-conference/</link>
       <pubDate>Fri, 29 May 2009 04:11:00 +0000</pubDate>
       
-      <guid>http://example.org/blog/a-great-place-for-a-good-conference/</guid>
+      <guid>https://xpierg.github.io/blog/a-great-place-for-a-good-conference/</guid>
       <description>I attended (too) few sessions at XP2009: smart people (Mary Poppendieck, Ivar Jacobson, David Anderson among others) and great arguments.
 It was in a great place too, in Sardinia … look at what was outside the conference rooms.</description>
     </item>

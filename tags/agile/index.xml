@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile on Roxo | Creative Design Agency</title>
+    <link>http://example.org/tags/agile/</link>
+    <description>Recent content in Agile on Roxo | Creative Design Agency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Nov 2009 17:18:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Backlog for a Change</title>
+      <link>http://example.org/blog/a-backlog-for-a-change/</link>
+      <pubDate>Thu, 19 Nov 2009 17:18:31 +0000</pubDate>
+      
+      <guid>http://example.org/blog/a-backlog-for-a-change/</guid>
+      <description>Nice post from Mike Cohn: How Do You Get from Here to Agile? Iterate. | Mike Cohn&amp;rsquo;s Blog - Succeeding With Agile®.
+ Historically, when an organization needed to change, it undertook a “change program.</description>
+    </item>
+    
+    <item>
+      <title>A good answer or a fast answer?</title>
+      <link>http://example.org/blog/a-good-answer-or-a-fast-answer/</link>
+      <pubDate>Tue, 28 Nov 2006 12:29:21 +0000</pubDate>
+      
+      <guid>http://example.org/blog/a-good-answer-or-a-fast-answer/</guid>
+      <description>My boss uses to say:
+ if you don&amp;rsquo;t give an answer to your customer, he will find a solution by himself
+ The dilemma of every service provider (of any kind) is often giving a good solution or a fast solution.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PierG | Personal Site</title>
-    <link>https://xpierg.github.io/tags/</link>
+    <link>https://www.pierg.com/tags/</link>
     <description>Recent content in Tags on PierG | Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Nov 2009 17:18:31 +0000</lastBuildDate>
     
-	<atom:link href="https://xpierg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.pierg.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Agile</title>
-      <link>https://xpierg.github.io/tags/agile/</link>
+      <link>https://www.pierg.com/tags/agile/</link>
       <pubDate>Thu, 19 Nov 2009 17:18:31 +0000</pubDate>
       
-      <guid>https://xpierg.github.io/tags/agile/</guid>
+      <guid>https://www.pierg.com/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Change</title>
-      <link>https://xpierg.github.io/tags/change/</link>
+      <link>https://www.pierg.com/tags/change/</link>
       <pubDate>Thu, 19 Nov 2009 17:18:31 +0000</pubDate>
       
-      <guid>https://xpierg.github.io/tags/change/</guid>
+      <guid>https://www.pierg.com/tags/change/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Management</title>
-      <link>https://xpierg.github.io/tags/management/</link>
+      <link>https://www.pierg.com/tags/management/</link>
       <pubDate>Thu, 19 Nov 2009 17:18:31 +0000</pubDate>
       
-      <guid>https://xpierg.github.io/tags/management/</guid>
+      <guid>https://www.pierg.com/tags/management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://xpierg.github.io/tags/personal/</link>
+      <link>https://www.pierg.com/tags/personal/</link>
       <pubDate>Fri, 29 May 2009 04:11:00 +0000</pubDate>
       
-      <guid>https://xpierg.github.io/tags/personal/</guid>
+      <guid>https://www.pierg.com/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communication</title>
-      <link>https://xpierg.github.io/tags/communication/</link>
+      <link>https://www.pierg.com/tags/communication/</link>
       <pubDate>Fri, 06 Mar 2009 05:32:00 +0000</pubDate>
       
-      <guid>https://xpierg.github.io/tags/communication/</guid>
+      <guid>https://www.pierg.com/tags/communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leadership</title>
-      <link>https://xpierg.github.io/tags/leadership/</link>
+      <link>https://www.pierg.com/tags/leadership/</link>
       <pubDate>Fri, 06 Mar 2009 05:32:00 +0000</pubDate>
       
-      <guid>https://xpierg.github.io/tags/leadership/</guid>
+      <guid>https://www.pierg.com/tags/leadership/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Productivity</title>
-      <link>https://xpierg.github.io/tags/productivity/</link>
+      <link>https://www.pierg.com/tags/productivity/</link>
       <pubDate>Fri, 06 Mar 2009 05:32:00 +0000</pubDate>
       
-      <guid>https://xpierg.github.io/tags/productivity/</guid>
+      <guid>https://www.pierg.com/tags/productivity/</guid>
       <description></description>
     </item>
     

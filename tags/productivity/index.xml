@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Productivity on PierG | Personal Site</title>
-    <link>https://xpierg.github.io/tags/productivity/</link>
+    <link>https://www.pierg.com/tags/productivity/</link>
     <description>Recent content in Productivity on PierG | Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Mar 2009 05:32:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xpierg.github.io/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.pierg.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>0 (zero) Inbox</title>
-      <link>https://xpierg.github.io/blog/0-zero-inbox/</link>
+      <link>https://www.pierg.com/blog/0-zero-inbox/</link>
       <pubDate>Fri, 06 Mar 2009 05:32:00 +0000</pubDate>
       
-      <guid>https://xpierg.github.io/blog/0-zero-inbox/</guid>
+      <guid>https://www.pierg.com/blog/0-zero-inbox/</guid>
       <description>Courtesy of ooOJasonOoo, Some Rights Reserved
 Is having an empty email Inbox a dream for you?
 In my opinion it’s not a dream or a goal, it’s a means, a resource.</description>

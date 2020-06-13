@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.pierg.com/content-almost-original/</loc>
+    <lastmod>2020-06-02T20:56:42+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/content-almost-original/portfolio/after-lockdown/</loc>
+    <lastmod>2020-06-02T20:56:42+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.pierg.com/portfolio/after-lockdown/</loc>
     <lastmod>2020-06-02T20:56:42+06:00</lastmod>
   </url>
@@ -13,8 +23,18 @@
   </url>
   
   <url>
+    <loc>https://www.pierg.com/content-almost-original/portfolio/in-the-garden/</loc>
+    <lastmod>2020-05-10T15:44:46+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.pierg.com/portfolio/in-the-garden/</loc>
     <lastmod>2020-05-10T15:44:46+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/content-almost-original/portfolio/</loc>
+    <lastmod>2020-05-01T16:48:28+06:00</lastmod>
   </url>
   
   <url>
@@ -23,22 +43,17 @@
   </url>
   
   <url>
-    <loc>https://www.pierg.com/blog/design-inspiration-the-best-projects-from-december/</loc>
+    <loc>https://www.pierg.com/content-almost-original/blog/design-inspiration-the-best-projects-from-december/</loc>
     <lastmod>2019-12-24T13:45:06+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.pierg.com/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</loc>
-    <lastmod>2019-12-24T13:40:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.pierg.com/blog/design-inspiration-the-best-projects-from-november/</loc>
+    <loc>https://www.pierg.com/content-almost-original/blog/design-inspiration-the-best-projects-from-november/</loc>
     <lastmod>2019-12-24T13:36:06+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.pierg.com/blog/the-10-biggest-product-stories-of-2019/</loc>
+    <loc>https://www.pierg.com/content-almost-original/blog/the-10-biggest-product-stories-of-2019/</loc>
     <lastmod>2019-12-24T12:58:17+06:00</lastmod>
   </url>
   
@@ -48,7 +63,17 @@
   </url>
   
   <url>
+    <loc>https://www.pierg.com/content-almost-original/contact/</loc>
+    <lastmod>2019-12-23T20:17:01+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.pierg.com/blog/</loc>
+    <lastmod>2019-12-23T20:17:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/content-almost-original/blog/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
   </url>
   
@@ -58,7 +83,12 @@
   </url>
   
   <url>
-    <loc>https://www.pierg.com/blog/a-backlog-for-a-change/</loc>
+    <loc>https://www.pierg.com/content-almost-original/about/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/content-almost-original/blog/a-backlog-for-a-change/</loc>
     <lastmod>2009-11-19T17:18:31+00:00</lastmod>
   </url>
   
@@ -83,7 +113,7 @@
   </url>
   
   <url>
-    <loc>https://www.pierg.com/blog/a-great-place-for-a-good-conference/</loc>
+    <loc>https://www.pierg.com/content-almost-original/blog/a-great-place-for-a-good-conference/</loc>
     <lastmod>2009-05-29T04:11:00+00:00</lastmod>
   </url>
   
@@ -93,22 +123,32 @@
   </url>
   
   <url>
+    <loc>https://www.pierg.com/blog/a-backlog-for-a-change/</loc>
+    <lastmod>2009-03-07T05:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/tags/communication/</loc>
+    <lastmod>2009-03-07T05:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/tags/leadership/</loc>
+    <lastmod>2009-03-07T05:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/tags/productivity/</loc>
+    <lastmod>2009-03-07T05:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.pierg.com/blog/0-zero-inbox/</loc>
     <lastmod>2009-03-06T05:32:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.pierg.com/tags/communication/</loc>
-    <lastmod>2009-03-06T05:32:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.pierg.com/tags/leadership/</loc>
-    <lastmod>2009-03-06T05:32:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.pierg.com/tags/productivity/</loc>
+    <loc>https://www.pierg.com/content-almost-original/blog/0-zero-inbox/</loc>
     <lastmod>2009-03-06T05:32:00+00:00</lastmod>
   </url>
   
@@ -118,8 +158,22 @@
   </url>
   
   <url>
+    <loc>https://www.pierg.com/content-almost-original/blog/a-good-answer-or-a-fast-answer-part-2/</loc>
+    <lastmod>2006-11-30T08:06:45+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.pierg.com/blog/a-good-answer-or-a-fast-answer/</loc>
     <lastmod>2006-11-28T12:29:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/content-almost-original/blog/a-good-answer-or-a-fast-answer/</loc>
+    <lastmod>2006-11-28T12:29:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/blog/a-great-place-for-a-good-conference/</loc>
   </url>
   
   <url>

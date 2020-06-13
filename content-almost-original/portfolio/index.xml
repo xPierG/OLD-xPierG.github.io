@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>These section is mainly about my &lt;span&gt;photo projects&lt;/span&gt; on PierG | Personal Site</title>
+    <link>https://www.pierg.com/content-almost-original/portfolio/</link>
+    <description>Recent content in These section is mainly about my &lt;span&gt;photo projects&lt;/span&gt; on PierG | Personal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 16:48:28 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.pierg.com/content-almost-original/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pics after the Lockdown</title>
+      <link>https://www.pierg.com/content-almost-original/portfolio/after-lockdown/</link>
+      <pubDate>Tue, 02 Jun 2020 20:56:42 +0600</pubDate>
+      
+      <guid>https://www.pierg.com/content-almost-original/portfolio/after-lockdown/</guid>
+      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+The watch has the following features:</description>
+    </item>
+    
+    <item>
+      <title>In The Garden</title>
+      <link>https://www.pierg.com/content-almost-original/portfolio/in-the-garden/</link>
+      <pubDate>Sun, 10 May 2020 15:44:46 +0600</pubDate>
+      
+      <guid>https://www.pierg.com/content-almost-original/portfolio/in-the-garden/</guid>
+      <description>The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.</description>
+    </item>
+    
+  </channel>
+</rss>

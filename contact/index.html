@@ -65,7 +65,7 @@
           
           <li class="nav-item">
             <a class="nav-link" href="https://www.pierg.com/portfolio"
-              >Portfolio</a
+              >Image Galleries</a
             >
           </li>
            
@@ -98,6 +98,10 @@
   </div>
 </nav>
 <main>
+<head>
+  <title>reCAPTCHA demo: Simple page</title>
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
 <section class="site-contact">
   <div class="container">
     <div class="row">
@@ -108,7 +112,7 @@
       </div>
       <div class="col-lg-6 ml-auto">
         <div class="site-contact-form">
-          <h4>TELL US ABOUT YOUR PROJECT</h4>
+          <h4>TELL ME...</h4>
           <form id="contact-form" action="https://formspree.io/mnqgvbnn" method="POST">
             <div class="row">
               <div class="col-lg-6">
@@ -117,22 +121,20 @@
               <div class="col-lg-6">
                 <input type="text" class="form-control" name="last-name" id="last-name" placeholder="Last Name">
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-12">
                 <input type="email" class="form-control" name="email" id="email" placeholder="Email">
               </div>
-              <div class="col-lg-6">
-                <div class="select-wrapper">
-                  <select class="form-control" id="projectType" name="project-type">
-                    <option value="" selected disabled hidden>Project Type</option>
-                    <option value="gd">Graphics Design</option>
-                    <option value="wb">Web Design</option>
-                  </select>
-                </div>
-              </div>
+
               <div class="col-12">
-                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="About the Project"></textarea>
-              </div>
+                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="Your text"></textarea>
               <div class="col-12">
+                <form action="?" method="POST">
+                <div class="g-recaptcha" data-sitekey="6LcYMKQZAAAAAHfnH8y_HXrLOCJ-TS9P8zTgqk8t"></div>
+                <br/>
+
+              </form>
+            </div>
+            <div class="col-12">
                 <button type="submit" class="btn btn-primary" id="contact-form-button">
                   <span class="btn-area">
                     <span data-text="Send Message">

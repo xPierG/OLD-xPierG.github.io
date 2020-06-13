@@ -1,0 +1,45 @@
+---
+title: 'A good answer or a fast answer? - part 2'
+date: Thu, 30 Nov 2006 08:06:45 +0000
+draft: false
+tags: ['Management']
+image: images/blog/blog-post-04.jpg
+feature_image: images/blog/blog-details-image.jpg
+---
+
+I've got many comments to my previous '[A good answer or a fast answer](http://pierg.wordpress.com/2006/11/28/a-good-answer-or-a-fast-answer/)' post.
+
+Here are some thoughts about that topic (knowing that I'm talking about an internal IT department giving services to other departments):
+
+*   I don't think it's good to ask to a customer if he prefers a dirty or a good solution: giving a 'wrong' solution is not giving a good service
+*   Understanding when it's time to make a _quality debt_ is an important skill that need deep technical knowledge AND good knowledge of the (customer's) business domain
+*   I think it's important to take care of our customer giving **FAST feedback** and keeping him informed during all the process launched by his request
+*   I think it's important to **deliver result SOON**: and this means splitting the solution into incremental, visible pieces of values for the customer
+*   I think it's important to **deliver continuously**: don't forget your customer after the first contact
+*   The only way to do all this is **gaining TRUST** from our customer
+*   To gain TRUST you need to: provide **GOOD solutions** ( = stable + matching customer's needs) and **ON TIME solution** (learn to estimate properly!)
+
+PierG
+
+---
+### Comments:
+#### 
+[Nicola](http://blogs.ugidotnet.org/nicolacanalini/ "") - <time datetime="2006-11-30 12:17:04">Nov 4, 2006</time>
+
+Are you saying that a reduced scope answer can probabily be correct and satisfing ? If so I think you're probably right ...
+<hr />
+#### 
+[Prashant Gandhi](http://pmgandhi.wordpress.com/ "pmgandhi@gmail.com") - <time datetime="2006-12-05 03:32:34">Dec 2, 2006</time>
+
+Say you had to meet some legal compliance requirements. You do not necessarily have the resources to do a good job of it, but there is a scope for an immediate workaround. This is usually acceptable to client because the cost of penalties is probably higher than getting an elegant solution. Mind you, a dirty solution is not a wrong one - it is simply not the ideal one.It just means we take on technical debt or have a manual workaround. Of course this is a specific example. But I illustrate to make the point that dirty is not wrong.
+<hr />
+#### 
+[Michael Hugos](http://blogs.cio.com/blog/32 "mhugos@yahoo.com") - <time datetime="2006-12-03 18:20:00">Dec 0, 2006</time>
+
+A reduced scope answer is indeed the answer; it is the only answer. Otherwise the scope expands to become too large; the resulting system is then too complex; and it takes too long and costs too much to install. Then IT gets blamed because the resulting project became such a mess As the saying goes, "All jobs expand to fill the time available" so the only effective response is to set time limits for defining the system requirements; for designing the system; and for building the system. This way people are induced to focus on the most important requirements and design the simplest way to meet those requirements. This is what I call the "Robust 80% Solution". Get this first version of the system into production ASAP (30-90 days) then go back and begin adding new features and enhancements to the system based on user feedback and real worl demands. This way the system grows continuously and organically based on actual needs instead of based on some inevitably flawed and inaccurate forecast of what the future will be like.
+<hr />
+#### 
+[PierG](http://pierg.wordpress.com/ "piergiorgio.grossi@gmail.com") - <time datetime="2006-12-04 10:08:09">Dec 1, 2006</time>
+
+Michael, I'm not sure I'd say that we have to put limits to time or requirements, I prefer to say that we time box and prioritize. PierG
+<hr />

@@ -1,0 +1,11 @@
+---
+title: "In The Garden"
+date: 2020-05-10T15:44:46+06:00
+type: portfolio
+image: "images/projects/inthegarden/Garden.jpg"
+category: ["PICTURES"]
+project_images: ["images/projects/inthegarden/Garden1.jpg", "images/projects/inthegarden/Garden2.jpg", "images/projects/inthegarden/Garden3.jpg", "images/projects/inthegarden/Garden4.jpg"]
+---
+
+
+The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.

@@ -58,6 +58,36 @@
   </url>
   
   <url>
+    <loc>https://www.pierg.com/tags/design/</loc>
+    <lastmod>2012-11-08T05:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/tags/designthinking/</loc>
+    <lastmod>2012-11-08T05:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/blog/needs-are-noun/</loc>
+    <lastmod>2012-11-08T05:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/blog/risk-metrics/</loc>
+    <lastmod>2012-10-31T05:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/tags/agile/</loc>
+    <lastmod>2009-05-04T05:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/blog/extended-t-shape/</loc>
+    <lastmod>2009-05-04T05:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.pierg.com/blog/a-backlog-for-a-change/</loc>
     <lastmod>2009-03-07T05:32:00+00:00</lastmod>
   </url>
@@ -88,11 +118,6 @@
   </url>
   
   <url>
-    <loc>https://www.pierg.com/tags/agile/</loc>
-    <lastmod>2006-11-28T12:29:21+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.pierg.com/blog/a-great-place-for-a-good-conference/</loc>
   </url>
   
@@ -102,6 +127,10 @@
   
   <url>
     <loc>https://www.pierg.com/tags/personal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.pierg.com/photo/</loc>
   </url>
   
 </urlset>

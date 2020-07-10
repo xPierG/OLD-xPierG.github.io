@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DesignThinking on PierG | Personal Site</title>
+    <link>https://www.pierg.com/tags/designthinking/</link>
+    <description>Recent content in DesignThinking on PierG | Personal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Nov 2012 05:32:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.pierg.com/tags/designthinking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Needs are verbs and not nouns</title>
+      <link>https://www.pierg.com/blog/needs-are-noun/</link>
+      <pubDate>Thu, 08 Nov 2012 05:32:00 +0000</pubDate>
+      
+      <guid>https://www.pierg.com/blog/needs-are-noun/</guid>
+      <description>This week I had the chance to listen to Prof.Vignoli of “Università di Modena e Reggio Emilia” talking about Design Thinking – Stanford d.school (+ something more 🙂 ).</description>
+    </item>
+    
+  </channel>
+</rss>
